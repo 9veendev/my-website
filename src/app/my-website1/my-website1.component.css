@@ -1,0 +1,55 @@
+#navibar{
+    background-color: #333;
+    color: #fff;
+}
+#navibar ul{
+    padding: 20px;
+    list-style: none;
+    
+}
+#navibar li{
+    display: inline;
+    margin: 30px;
+    padding-left: 50px;
+}
+#navibar a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 50px;
+}
+.sometext{
+    background-image: url(../my-website/images/showcase.jpg);
+    float: right;
+    width: 50%;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+.sometext1{
+    background-image: url(../my-website/images/texture-dark-concrete-floor-mist-260nw-513032461.webp);
+    float: left;
+    width: 48%;
+    height: 172px;
+    padding: 0 30px;
+    box-sizing: border-box; 
+    color: #fff;
+    padding-top: 30px;
+}
+form{
+    float: left;
+    width: 50%;
+    text-align: center;
+    height: 250px;
+}
+address{
+    float: right;
+    width: 50%;
+    text-align: center;
+    height: 250px;
+}
+address h3{
+    font-size: 25px;
+    color: coral;
+    font-style: normal;
+}
+
